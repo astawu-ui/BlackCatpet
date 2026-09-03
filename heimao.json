@@ -1,14 +1,12 @@
 {
-  "version": "1.2.1",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v1.2.1.bat",
-  "sha256": "5c796d166c218df653dc703207d1f06654413ae46e2a24d6b1eb551334557d8c",
+  "version": "1.2.2",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v1.2.2.bat",
+  "sha256": "3bf2b6208eb1c4cb37b08aa61307b21862e4784c8bea4e54d3bbb42364df4f9b",
   "date": "2026-09-03",
   "notes": [
-    "右键菜单重新编排：层级按使用频率排，顶层只留每天要点的",
-    "顶层 = 今天的安排 + 一键下班；其余归三组：功能 / 互动 / 设置",
-    "「音乐老师」改叫「功能」；三张常驻小纸条的开关挪到功能第一组",
-    "「动作大全」改叫「换个动作」，和「跟它说说」一起收进互动",
-    "开机自启、置顶、大小、行为开关统一收进设置，带分组小标题"
+    "修复检查更新偶尔报「证书验证失败」：Windows 的根证书库是按需现拉的，没缓存到那条",
+    "证书链就会验证失败，装了 certifi 作为备用信任源后基本不会再撞上",
+    "证书真的验证不过时，提示语换成看得懂的中文，不再甩英文报错吓人"
   ],
-  "sig": "707b2de3b2187ef739c9385bcd787d0f33644ee8f6e003c78bf0683de4ed6b78e0f9f6c10c3301326b0c3a25d4393197be879fd56696e9a8a22795b94db0880e"
+  "sig": "bf4f74510596eea54ccb9ab4f1226ecaa6873bd3d14d5b6faa4e4db95362fd7b3575570f51721c2229fff001b9d045b7bc5cc732f87d45594198fa1792e55608"
 }
