@@ -1,12 +1,11 @@
 {
-  "version": "1.2.2",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v1.2.2.bat",
-  "sha256": "3bf2b6208eb1c4cb37b08aa61307b21862e4784c8bea4e54d3bbb42364df4f9b",
+  "version": "1.2.3",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v1.2.3.bat",
+  "sha256": "cfabbb1612707c8a7335eb2a39123423a5f2132daeb49af4669f24d155869f87",
   "date": "2026-09-03",
   "notes": [
-    "修复检查更新偶尔报「证书验证失败」：Windows 的根证书库是按需现拉的，没缓存到那条",
-    "证书链就会验证失败，装了 certifi 作为备用信任源后基本不会再撞上",
-    "证书真的验证不过时，提示语换成看得懂的中文，不再甩英文报错吓人"
+    "修复乐谱小纸条和排练待办看不到输入框：一处初始化顺序问题，控件被摆到了看不见的地方",
+    "小纸条和排练待办现在可以自由改大小：右下角拖一下，下次打开会记住这个尺寸"
   ],
-  "sig": "bf4f74510596eea54ccb9ab4f1226ecaa6873bd3d14d5b6faa4e4db95362fd7b3575570f51721c2229fff001b9d045b7bc5cc732f87d45594198fa1792e55608"
+  "sig": "aa09889d496bb5c742ed4c21a74ca1ba5b6360406aba30bfa168183cf82c56e45a5c24999848510b9a3046b27cd4d20359af7ac80d6216db2409d89ba067f70a"
 }
