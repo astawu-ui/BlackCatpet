@@ -1,11 +1,16 @@
 {
-  "version": "1.2.4",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v1.2.4.bat",
-  "sha256": "ab5f41b650ac345184eefa333ae87023fb3289acf3ae35c13bedede2a0174dcf",
-  "date": "2026-09-03",
+  "version": "1.3.0",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v1.3.0.bat",
+  "sha256": "30d501b58106bdd0c6684ccfe2c28ab09c93713dc7f70d8a9711d7b882e9acb8",
+  "date": "2026-09-04",
   "notes": [
-    "真正修复乐谱小纸条和排练待办不能输入：上次只修了控件位置，这次找到真正原因——",
-    "窗口带了个「永不接受焦点」的系统标志，位置对了也照样打不了字，已经去掉这个标志"
+    "新增天气：自动按 IP 定位，会自动打伞/戴遮阳帽，右键菜单能查看今天天气",
+    "下午 3 点后会提醒一次明天天气：有雨带伞、晴天防晒、降温 3℃以上提醒添衣",
+    "新增猫可以爬上小纸条、排练待办这些对话框，站得上去也能贴着边爬",
+    "新增喂冻干功能，猫会跑过去吃掉",
+    "新增逗猫棒，鼠标动它就会追、扑",
+    "小纸条和排练待办的每一条都能直接点 × 删除，不用再双击清空",
+    "乐谱面板、节拍器这些窗口，以及右键菜单整个换成暖色纸感风格，不再是灰蓝色"
   ],
-  "sig": "2fe0f527069be48a0e250efdf9211ae668dc1f68a7bfeba13b11bdf99f378551e897d802ea9927363f9ec1997e55070a3cbd895600f6f8618c9d4ccb53343705"
+  "sig": "0e564b6708696576ddfdb8dffc3120276eff5104c6da3886a6e1a9ab4048ae297ff6606db8d707db2c76c54ad0f6a17a2672f575a81c8eb627a71dcd2166630d"
 }
