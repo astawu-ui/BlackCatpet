@@ -1,9 +1,14 @@
 {
-  "version": "1.7.1",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v1.7.1.bat",
-  "sha256": "6dfb0471e98b2cbfa2775e12512bfb682fc6e2397abf8ac3748f8be9f40bde76",
+  "version": "1.7.2",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v1.7.2.bat",
+  "sha256": "60e6140b1453446afaf69c6de572980e750f1caa146527292f0b6465fb284e5d",
   "date": "2026-09-07",
   "notes": [
+    "v1.7.2",
+    "「摇一摇」过程中就开始掉猫毛了，散开飘落，不用等松手才有",
+    "之前只在来回晃够 2 回、且停顿 1.2 秒后才触发一次整撮毛，看着像\"松手才掉\"",
+    "现在每次转向（方向反转）就抖落一小撮（2~3 根），用 0.16 秒节流控制不会变成掉毛怪；",
+    "原有的\"晃够回数 → 眯眼 + 呼噜 + 一整撮毛 + 台词\"整体反应保留",
     "v1.7.1",
     "修「在线检查更新下载失败」这个 bug",
     "原因：raw.githubusercontent.com 从国内时通时不通，装机包 1.5MB 下到一半断流就废了，而老的代码只给了 12 秒、断了也不会接着下，只能整份重来",
@@ -19,5 +24,5 @@
     "按住 1.2 秒舔光标：以前一进入拖拽就取消，而拖拽阈值只有 4px，人手按住不动抖两下就超了，所以几乎从来没触发过；改成按\"光标离开按下点多远\"判断",
     "⚠️ 正在用的 1.7.0 / 1.6.x 里带着旧的更新器，它自己下不动 —— 这一版请手动双击安装包装一次，装完之后再点\"检查更新\"就通了"
   ],
-  "sig": "4c4338318c1c0ceeddfd56bb777cbff7b338331b0041555ad7eea5dfac0a0aec65db3050176c9cf592b1d7b9e534e2279061499b55e6108e825d6711e71de10f"
+  "sig": "2eef2ed3f9b5ca8c353e4a526e578bd73935ca2167e1d4901a389900a3db5491d2d036d6fada764edbc050ff3211a33c54061b527f613763a4dabf7ee736b103"
 }
