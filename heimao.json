@@ -1,13 +1,18 @@
 {
-  "version": "2.4.2",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v2.4.2.bat",
-  "sha256": "4f7d0d3bddf1bed1a92ffaf153f1da6061d351ae4ff74d29864ba56f1999968f",
+  "version": "2.4.6",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v2.4.6.bat",
+  "sha256": "25e4d867b9c1cb7fa30b4c5f49303d7fb277c2e61e8e09447031f460a872f677",
   "date": "2026-09-11",
   "notes": [
-    "v2.4.2（2026-09-11）　紧急修复：启动时崩溃",
-    "【修复】v2.4.1 改菜单时把托盘菜单也换成了扁平面板，导致一启动就报错退出",
-    "· 托盘图标只接受 QMenu，扁平面板塞进去会抛 TypeError",
-    "· 现在**托盘用 QMenu、猫本体右键用扁平面板**，两条路分开，互不影响"
+    "v2.4.6（2026-09-11）　修复连续喂食闪退 + 恢复喂食三选一",
+    "【修复】连续喂食闪退",
+    "· 零食图层是顶层窗口 + 带定时器，连续喂食时旧图层被垃圾回收立刻删掉，",
+    "但定时器还在跑 → 访问已释放对象 → 段错误闪退",
+    "· 给零食图层加 WA_DeleteOnClose + 关闭时停表，改为 deleteLater 干净收尾",
+    "· 顺带修了小鱼干的 drawPolygon 传参（PySide6 已不接受 list，每帧抛异常）",
+    "【恢复】喂食选项",
+    "· v2.4.3 把「喂食」改成了直接喂最爱，把冻干/猫条/小鱼干三选一弄丢了",
+    "· 点「🍤 喂食」重新弹出三选一，选哪种喂哪种"
   ],
-  "sig": "de0e95a67db3abfacd44c704416cde7c5d5183252b527b49c7593b4beec65c50cc30f9ddf75cce6dbdce0f13a24dfc154c4626f2ef2644ee59429d6a1b8ed00b"
+  "sig": "00deacd091b7352e63502d36320ad8b30129b6e597c5daee8e00e9946b9fab8238497e267637debba08335ddcefebcd54480243be0a76bb6596abe30512b3a0e"
 }
