@@ -1,18 +1,13 @@
 {
-  "version": "2.4.1",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v2.4.1.bat",
-  "sha256": "fcfac3e2976c6140e40746af52895fdca9fd7257d9b3ed0c8ef1ab8ccf41185d",
+  "version": "2.4.2",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v2.4.2.bat",
+  "sha256": "4f7d0d3bddf1bed1a92ffaf153f1da6061d351ae4ff74d29864ba56f1999968f",
   "date": "2026-09-11",
   "notes": [
-    "v2.4.1（2026-09-11）　取消节日外观 + 右键菜单改成扁平面板",
-    "【调整】取消节日外观",
-    "· 元旦金铃、春节红围巾、儿童节纸帽都拿掉了，用户觉得碍事",
-    "· 仍保留教师节洋甘菊、汇演日银色领结",
-    "【优化】右键菜单参考「牛来了」重新排版",
-    "· 顶部状态条：自由活动 / 原地休息 / 免打扰 / 结束今天",
-    "· 中部常用网格：摸头 / 喂食 / 打招呼 / 跳一下 / 小纸条 / 节拍器 / 倒计时 / 合影",
-    "· 底部工具条：天气 / 玩具箱 / 日历 / 设置 / 隐藏 / 退出",
-    "· 玩具箱、设置等低频功能仍通过原来的子菜单进入，不丢功能"
+    "v2.4.2（2026-09-11）　紧急修复：启动时崩溃",
+    "【修复】v2.4.1 改菜单时把托盘菜单也换成了扁平面板，导致一启动就报错退出",
+    "· 托盘图标只接受 QMenu，扁平面板塞进去会抛 TypeError",
+    "· 现在**托盘用 QMenu、猫本体右键用扁平面板**，两条路分开，互不影响"
   ],
-  "sig": "f7452fb2cb5f0bb946ae7e15869c67cebe4760812ca28197e697914f3d405822b283cec2330196374d3693965eb7d3bf3b9c2fce0aa84f4ceb4060ef78c3bc07"
+  "sig": "de0e95a67db3abfacd44c704416cde7c5d5183252b527b49c7593b4beec65c50cc30f9ddf75cce6dbdce0f13a24dfc154c4626f2ef2644ee59429d6a1b8ed00b"
 }
