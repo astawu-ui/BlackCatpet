@@ -1,10 +1,10 @@
 {
-  "version": "4.7.12",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.7.12.bat",
-  "sha256": "269da73eafd84c81963f11315fff0c85fb48ca614eb70849b66dee22764ee94d",
-  "date": "2026-10-19",
+  "version": "4.7.13",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.7.13.bat",
+  "sha256": "55fb900320247ac5b48c8f2a964f2052ece887d41234738d9d31d08942969d1a",
+  "date": "2026-10-22",
   "notes": [
-    "v4.7.12（修右键自动抽签）　修复右键点黑猫会自己弹出抽签面板的问题"
+    "v4.7.13（旅行新增地点）　旅行新增 24 个出游地点"
   ],
-  "sig": "401841587b7f15f7e3a000bcf9e7c639bff5417f20691ebbe55a5ea5a0ae1f1688f9414968b0cd33e38643c1486bb3e3b0b77d294e278971ede90b0968ab8705"
+  "sig": "496f01a4846f62b75a57cf878655a7ea43687f8040d593dd0216862dd26b29ef1954527842c03f8f06fe43692566b98eb2f37f9a824d25a17898ef0536c2d603"
 }
