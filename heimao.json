@@ -1,10 +1,10 @@
 {
-  "version": "4.7.13",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.7.13.bat",
-  "sha256": "55fb900320247ac5b48c8f2a964f2052ece887d41234738d9d31d08942969d1a",
+  "version": "4.7.14",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.7.14.bat",
+  "sha256": "0ad469400ce8cb03ca140b6784a0b3703cfc0a254f0a75f5927beb47de769eb4",
   "date": "2026-10-22",
   "notes": [
-    "v4.7.13（旅行新增地点）　旅行新增 24 个出游地点"
+    "v4.7.14（下课提醒）　新增「下课提醒」：每节课下课准点提醒，开关默认关，在提醒设置里勾选开启"
   ],
-  "sig": "496f01a4846f62b75a57cf878655a7ea43687f8040d593dd0216862dd26b29ef1954527842c03f8f06fe43692566b98eb2f37f9a824d25a17898ef0536c2d603"
+  "sig": "a9babc5f2cc80e4ec54e041baaa86c031b44e635e9bad3c438e7023dc7a76ec049884f94492c8369af721e49f07c56c6c5705e0f2f75081903f48a79707ad001"
 }
