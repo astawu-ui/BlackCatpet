@@ -1,10 +1,15 @@
 {
-  "version": "4.7.15",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.7.15.bat",
-  "sha256": "b027434700f4cab4db286d5331f155a4403f2dfa29262996b5439cbfc2f0a491",
-  "date": "2026-10-22",
+  "version": "4.7.16",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.7.16.bat",
+  "sha256": "4c80467ce9b7c9e29cf336b057c0b454a17c57baf1d90b32861a5fa66e980da2",
+  "date": "2026-10-23",
   "notes": [
-    "v4.7.15（提醒开关记忆）　起床提醒、下课提醒的开关会记住你的选择，勾上之后不用每次重新勾选"
+    "v4.7.16（素材外置按需下载）　旅行照、换装、小小粥的非基础姿势改成首次用到时自动从线上拉取，安装包更小、离线也能用内置的基础素材"
   ],
-  "sig": "167bf4a0f3ebf3089c53032f7ede35971670e1494d25f428f1e5cd1bd89ddfb6c17afa6b1903a5c53434e41d2cc9e2e607dc0822696e04bde2b3f91796b2380d"
+  "assets": {
+    "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E7%B4%A0%E6%9D%90%E5%8C%85-v4.7.16.zip",
+    "sha256": "c32bcf3e1d431adf4164b2ea71111ada503d9d490dabfd7cd8d72f12b8f01606",
+    "ver": "4.7.16"
+  },
+  "sig": "277bb933d177b0bec88d265f94c38ae87cb1fe8aff44707290aee7a9edf931c953568da539d17f94796c3b1bcac0299111fab48be47be1c20d299f3e43386305"
 }
