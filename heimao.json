@@ -1,15 +1,10 @@
 {
-  "version": "4.8.0",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.8.0.bat",
-  "sha256": "4c87e99a637adac319fcd71992c3449d86d8742ba31bd03342944d34bbd705a7",
+  "version": "4.8.1",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.8.1.bat",
+  "sha256": "355e9173c2ab5ffb65c4adf9cd8b540aa6169bcaf407181e1ebf98a6b54f67a5",
   "date": "2026-10-26",
   "notes": [
-    "v4.8.0（更新更顺、素材更省）　检查更新改用镜像代理、国内也能顺利查到并下载新版；外置的旅行照、换装、小小粥非基础姿势改成用到时才从线上下载，本地更省空间"
+    "v4.8.1（素材全在线、按需逐张）　旅行照、换装、小小粥的非基础姿势都改成用到时才从线上逐张下载，安装包不再带任何素材，本地最省空间"
   ],
-  "assets": {
-    "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E7%B4%A0%E6%9D%90%E5%8C%85-v4.8.0.zip",
-    "sha256": "c32bcf3e1d431adf4164b2ea71111ada503d9d490dabfd7cd8d72f12b8f01606",
-    "ver": "4.8.0"
-  },
-  "sig": "896f431542c37880f0baf7bcf20be19336eb4fcadd53660ad9c6be719ff91535c9a127c18d7330a00270be67491f77fb8a4fa35f715373c43cb383f609eebe03"
+  "sig": "509ac023d4ae1748d14fb210ebccbb70f8eca182fa36bcd15d155aac1fd7f4570eae332708e3533e18fca92b6efa189c1185856ed3171a233364a63b0375f102"
 }
