@@ -1,10 +1,10 @@
 {
-  "version": "4.8.1",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.8.1.bat",
-  "sha256": "355e9173c2ab5ffb65c4adf9cd8b540aa6169bcaf407181e1ebf98a6b54f67a5",
-  "date": "2026-10-26",
+  "version": "4.8.2",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.8.2.bat",
+  "sha256": "3859d4cf8ecdeeb1659c45dafff416e452d4cbfac8bca99d7544eb0d1058bb9f",
+  "date": "2026-10-27",
   "notes": [
-    "v4.8.1（素材全在线、按需逐张）　旅行照、换装、小小粥的非基础姿势都改成用到时才从线上逐张下载，安装包不再带任何素材，本地最省空间"
+    "v4.8.2（明信片照随寄随下）　修好了「寄回的明信片」照片不显示的问题——现在明信片照会随寄随下、自动显示"
   ],
-  "sig": "509ac023d4ae1748d14fb210ebccbb70f8eca182fa36bcd15d155aac1fd7f4570eae332708e3533e18fca92b6efa189c1185856ed3171a233364a63b0375f102"
+  "sig": "199ced3e63f0fc1bd689cb2c373a8d2e3392f4d654b1c4702ea9eb589c9505cdb2e967b6c8944c7c3903f26f1bfe633447e497f23358cdc5a7fb8e0170435509"
 }
