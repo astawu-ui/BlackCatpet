@@ -1,10 +1,10 @@
 {
-  "version": "4.8.3",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.8.3.bat",
-  "sha256": "f8fcaf3d9d4bf014509b724af4445352f007f1512c12b08d54df894cfeeba521",
+  "version": "4.8.4",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.8.4.bat",
+  "sha256": "d5dc91bd53d1cbfe8cf72453500b28fbe55bd2683f4d486839ffc94b2db7462a",
   "date": "2026-10-27",
   "notes": [
-    "v4.8.3（猫言猫语纸条）　黑猫会不定时叼一张纸条丢在桌面，点开里面是一句暖心的话或者猫言猫语"
+    "v4.8.4（纸条卡片修正）　纸条卡片缩小一档，并补上纸质底色——之前卡片是透明的，能看见后面的壁纸"
   ],
-  "sig": "aa88f1d2bd3e7a608a909fc4efd4923e8bdf2d6a2f7080cb45478fdf9483c8bbf438b682d071290a9a1b0fe4fda0a36774b69d1863adb6b0fce0ae192b006b06"
+  "sig": "7d3daf2ad5be30721992fa9ebbfc1c6a894b8e6e3cf2969ee07cccf977c814900f275f56de78d8ca033e4642955fdc26f1e7219a2934e4e15fce8ae376f9a80a"
 }
