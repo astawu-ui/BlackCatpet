@@ -1,10 +1,10 @@
 {
-  "version": "4.8.4",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.8.4.bat",
-  "sha256": "d5dc91bd53d1cbfe8cf72453500b28fbe55bd2683f4d486839ffc94b2db7462a",
+  "version": "4.8.5",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.8.5.bat",
+  "sha256": "948332e655408087df671bc3babedb7b740bbec4098b3fb778b54005f81012f3",
   "date": "2026-10-27",
   "notes": [
-    "v4.8.4（纸条卡片修正）　纸条卡片缩小一档，并补上纸质底色——之前卡片是透明的，能看见后面的壁纸"
+    "v4.8.5（纸条再修）　纸条卡片去掉「再来一张」按钮、信封再缩小一档，黑猫固定说「给你一张纸条，你查看一下」"
   ],
-  "sig": "7d3daf2ad5be30721992fa9ebbfc1c6a894b8e6e3cf2969ee07cccf977c814900f275f56de78d8ca033e4642955fdc26f1e7219a2934e4e15fce8ae376f9a80a"
+  "sig": "252207100a6edb1e9d7a94b171255403f03f9325cc080580388ad20f3476868eeecc019db7e66a14ad24e012c0153acada39a7895e584e83564c59041413c00a"
 }
