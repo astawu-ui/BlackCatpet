@@ -1,10 +1,10 @@
 {
-  "version": "4.8.2",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.8.2.bat",
-  "sha256": "3859d4cf8ecdeeb1659c45dafff416e452d4cbfac8bca99d7544eb0d1058bb9f",
+  "version": "4.8.3",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.8.3.bat",
+  "sha256": "f8fcaf3d9d4bf014509b724af4445352f007f1512c12b08d54df894cfeeba521",
   "date": "2026-10-27",
   "notes": [
-    "v4.8.2（明信片照随寄随下）　修好了「寄回的明信片」照片不显示的问题——现在明信片照会随寄随下、自动显示"
+    "v4.8.3（猫言猫语纸条）　黑猫会不定时叼一张纸条丢在桌面，点开里面是一句暖心的话或者猫言猫语"
   ],
-  "sig": "199ced3e63f0fc1bd689cb2c373a8d2e3392f4d654b1c4702ea9eb589c9505cdb2e967b6c8944c7c3903f26f1bfe633447e497f23358cdc5a7fb8e0170435509"
+  "sig": "aa88f1d2bd3e7a608a909fc4efd4923e8bdf2d6a2f7080cb45478fdf9483c8bbf438b682d071290a9a1b0fe4fda0a36774b69d1863adb6b0fce0ae192b006b06"
 }
