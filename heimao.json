@@ -1,10 +1,10 @@
 {
-  "version": "4.8.5",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.8.5.bat",
-  "sha256": "948332e655408087df671bc3babedb7b740bbec4098b3fb778b54005f81012f3",
-  "date": "2026-10-27",
+  "version": "4.8.6",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.8.6.bat",
+  "sha256": "054b23665ecf5fbce353e126b5e60e877bcce33bb24bdf135331f85958fb0e69",
+  "date": "2026-10-28",
   "notes": [
-    "v4.8.5（纸条再修）　纸条卡片去掉「再来一张」按钮、信封再缩小一档，黑猫固定说「给你一张纸条，你查看一下」"
+    "v4.8.6（纸条默认关）　猫言猫语纸条功能改为默认关闭——刚装上不会自动丢纸条；想要的话去「提醒设置」里勾上「开启猫言猫语纸条」，勾上之后一直开着，重启也保持"
   ],
-  "sig": "252207100a6edb1e9d7a94b171255403f03f9325cc080580388ad20f3476868eeecc019db7e66a14ad24e012c0153acada39a7895e584e83564c59041413c00a"
+  "sig": "6449cbaf94c8d9985794f8fb77f936fce6ffbd7e7c96e42d6352c1bd938bdbec90606fd8c1254e965d62b3d33ded9a6cebe6ae88c7508718633d098288e9ce07"
 }
