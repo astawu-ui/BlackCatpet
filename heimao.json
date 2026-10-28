@@ -1,10 +1,10 @@
 {
-  "version": "4.8.6",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.8.6.bat",
-  "sha256": "054b23665ecf5fbce353e126b5e60e877bcce33bb24bdf135331f85958fb0e69",
+  "version": "4.8.7",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v4.8.7.bat",
+  "sha256": "7371f42fb1a889413b97009c130e81541cd43a9374b03cab451682ac6bca83ae",
   "date": "2026-10-28",
   "notes": [
-    "v4.8.6（纸条默认关）　猫言猫语纸条功能改为默认关闭——刚装上不会自动丢纸条；想要的话去「提醒设置」里勾上「开启猫言猫语纸条」，勾上之后一直开着，重启也保持"
+    "v4.8.7（旅行照修好 + 明信片有图）　修好了旅行照和「寄回的明信片」加载不出来的问题：线上素材位置改成自动查找，去过的地点的照片会存到本地（装新版也不丢），点去旅游就自动把那张照下回来，明信片一定带图"
   ],
-  "sig": "6449cbaf94c8d9985794f8fb77f936fce6ffbd7e7c96e42d6352c1bd938bdbec90606fd8c1254e965d62b3d33ded9a6cebe6ae88c7508718633d098288e9ce07"
+  "sig": "e562426701fc41bc53d205db431d3c74f37070230689ec09192e8b3418a59b12f817a56b1873e6505aab59a32da5796b0400d0cec7402717d3d665f0fb401c05"
 }
