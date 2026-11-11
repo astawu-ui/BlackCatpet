@@ -1,13 +1,13 @@
 {
-  "version": "6.1",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.1.bat",
-  "sha256": "81f536ef38e6e509e1d5d8186ceced6a842b0d151ef573f5b82c0752f1623d6c",
+  "version": "6.2",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.2.bat",
+  "sha256": "12db1964eec36b5637e1e07f57a31ecd3fb872fcf5a1f2c48fad7f8bf01029f2",
   "date": "2026-11-11",
   "notes": [
-    "v6.1（更新说明精简 + 修好下载 404）　更新弹窗里那一大段说明压成两句话，以后一眼就能看完。",
-    "另外修掉一个下载坑：以前发新版会把仓库里的旧安装包删掉，碰上 GitHub 缓存还没刷新，点更新就会去下已经不存在的旧包、报「404 这个地址上没有这个文件」。现在会留着最近几版安装包，缓存慢半拍也不会下载失败。"
+    "v6.2（去掉飞机标注和成功率数字 + 护照改成出门去办）　国际票面和出发气泡不再写「首尾 2 天在飞机上」，抽签卡和结果卡也不再显示签证成功率百分比（难度照旧按原来的分层算，只是不写出来）。",
+    "点「🛂 办理护照」不再当场办妥：小小粥带材料出门去办，半小时后回来才告诉你结果，菜单和抽签卡会显示倒计时。"
   ],
-  "seq": 6,
+  "seq": 7,
   "expires": "2027-11-11",
-  "sig": "b6dee37620d53971505b708d7d58709637e5a6999b9492dbeb6ab389b9fb2185237b0f62c75c1ed0246d7d535addcd7ccdaa650aea67656a9df13d39b181d50c"
+  "sig": "f29e66f0a40a6febb7fa91c9b31558c9347e95e9870ac68ed7b5de77570ee86fcbdac582b86b2e5870e3fdb938243b437fa42e5a1b995e6aa555c830fd1ed101"
 }
