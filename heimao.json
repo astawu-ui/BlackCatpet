@@ -1,13 +1,14 @@
 {
-  "version": "6.2",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.2.bat",
-  "sha256": "12db1964eec36b5637e1e07f57a31ecd3fb872fcf5a1f2c48fad7f8bf01029f2",
+  "version": "6.3",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.3.bat",
+  "sha256": "273990d17dfaf3c7bee96a458b8e205815e41b803ff4543dc080fa3a5bec0788",
   "date": "2026-11-11",
   "notes": [
-    "v6.2（去掉飞机标注和成功率数字 + 护照改成出门去办）　国际票面和出发气泡不再写「首尾 2 天在飞机上」，抽签卡和结果卡也不再显示签证成功率百分比（难度照旧按原来的分层算，只是不写出来）。",
-    "点「🛂 办理护照」不再当场办妥：小小粥带材料出门去办，半小时后回来才告诉你结果，菜单和抽签卡会显示倒计时。"
+    "v6.3（签证国排最前 + 第一张明信片晚 2 小时 + 手册配图对上）　签证办下来后，「去旅行」抽签卡直接显示那个国家，旅行手册海外页也把它所在的大洲和国家格子挪到最上面，不用再翻好久。",
+    "出国游第一张明信片改成出发满 2 小时才寄回来，后面每天一张照旧。",
+    "旅行手册现在每收到一张明信片就记一行、各配当天那张插画 —— 第一天写「在飞机上」就配飞机图，不再统一拿地标打卡照顶。"
   ],
-  "seq": 7,
+  "seq": 8,
   "expires": "2027-11-11",
-  "sig": "f29e66f0a40a6febb7fa91c9b31558c9347e95e9870ac68ed7b5de77570ee86fcbdac582b86b2e5870e3fdb938243b437fa42e5a1b995e6aa555c830fd1ed101"
+  "sig": "261a27fccaa743f776600c41506e5a2ab04f0d319afc5af4a3cec6d9abb2903434129b9844b91f36b1c27dc56103a91d6550643a2ab6554a5e020c98ba0a1704"
 }
