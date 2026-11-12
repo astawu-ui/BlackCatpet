@@ -1,13 +1,12 @@
 {
-  "version": "6.6",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.6.bat",
-  "sha256": "38d8132595ea46520cb79139c21f2bddde90b6bc6d4e6f7a6dade27a670b66c6",
+  "version": "6.7",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.7.bat",
+  "sha256": "29508e17b2842062f56c57ccc2f9969ad7285cf34cff48cb340cbe2e5d1b20ed",
   "date": "2026-11-12",
   "notes": [
-    "v6.6（黑猫走路更流畅、更像真猫）　走路改成「脚跟着地面走」：步频跟速度联动，不再一边倒腿一边往前滑；起伏用平滑曲线，起步、停步和转身都有过渡。",
-    "四条腿改成真猫的四拍步（各错 90°），尾巴两层波动、身体随步子轻轻俯仰，偶尔还会迈一小串轻快步。"
+    "v6.7（清理不显示的死姿势）　黑猫和小小粥里 4 张从来不会自动显示的姿势图清掉了：猫的「腾空跳」，小小粥的「生气 / 委屈 / 害怕」。它们没有任何功能引用，菜单和互动都用不到，删掉纯减负、行为零影响。"
   ],
-  "seq": 11,
+  "seq": 12,
   "expires": "2027-11-12",
-  "sig": "2a199e95003b08e5f8eb309c284eae1445ba5cef595cf9900d00d87fe077179c56bbf0e6237e838dbd8df8281a3c051da0eb05715540a0e06b47bd8335c0ba0c"
+  "sig": "4af55fbfa20ab0a33a0c1431d421d876c7ca89e1a50b73e4cf8efcc8846091d2f5f90bbe21ebb596ed3fa33ce167f970d3d4da5885d6c62dc4189ab0d041ab0d"
 }
