@@ -1,13 +1,13 @@
 {
-  "version": "6.5",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.5.bat",
-  "sha256": "1b016ab106eeb563d041d78f522f7b8866ee394e862bd4a0f3639ff9736aef0f",
+  "version": "6.6",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.6.bat",
+  "sha256": "38d8132595ea46520cb79139c21f2bddde90b6bc6d4e6f7a6dade27a670b66c6",
   "date": "2026-11-12",
   "notes": [
-    "v6.5（新增「红樱和服」桌面造型）　小小粥多了第三套造型：红色樱花和服 + 丸子头梅花发簪 + 淡粉折扇，在「换装」里就能选。",
-    "站 / 坐 / 玩手机 / 打盹 / 走路两帧 6 个动作全部配齐，切换造型后待机不会跳回旧衣服。"
+    "v6.6（黑猫走路更流畅、更像真猫）　走路改成「脚跟着地面走」：步频跟速度联动，不再一边倒腿一边往前滑；起伏用平滑曲线，起步、停步和转身都有过渡。",
+    "四条腿改成真猫的四拍步（各错 90°），尾巴两层波动、身体随步子轻轻俯仰，偶尔还会迈一小串轻快步。"
   ],
-  "seq": 10,
+  "seq": 11,
   "expires": "2027-11-12",
-  "sig": "1033e114015c7b80c22b6a230fce07e3c0052f0a713310b7fd8c85153b4675b772448c78983624faf9452ac8f8f266d47ecc5252427ef78bed5f4bca2ab29b08"
+  "sig": "2a199e95003b08e5f8eb309c284eae1445ba5cef595cf9900d00d87fe077179c56bbf0e6237e838dbd8df8281a3c051da0eb05715540a0e06b47bd8335c0ba0c"
 }
