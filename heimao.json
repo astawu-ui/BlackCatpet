@@ -1,13 +1,13 @@
 {
-  "version": "6.4",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.4.bat",
-  "sha256": "5bec3ebb133c937ae4b38af63691b9667f522b42058d2495ad062f98c8cc8cde",
+  "version": "6.5",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.5.bat",
+  "sha256": "1b016ab106eeb563d041d78f522f7b8866ee394e862bd4a0f3639ff9736aef0f",
   "date": "2026-11-12",
   "notes": [
-    "v6.4（手册明信片每天一张独立小卡）　旅行手册里出国游的明信片不再挤成一坨：第 1 天、第 2 天……各占一张独立卡片，有自己的边框、「第 N 天」标题和当天那张插画。",
-    "国内旅行和「⬇️ 保存合照」不变。"
+    "v6.5（新增「红樱和服」桌面造型）　小小粥多了第三套造型：红色樱花和服 + 丸子头梅花发簪 + 淡粉折扇，在「换装」里就能选。",
+    "站 / 坐 / 玩手机 / 打盹 / 走路两帧 6 个动作全部配齐，切换造型后待机不会跳回旧衣服。"
   ],
-  "seq": 9,
+  "seq": 10,
   "expires": "2027-11-12",
-  "sig": "f5d17e56fa2f2c706bc54e4722ce499d0b671b3cc53b1d0ea8c099dc63b44a2a7d3850ba37bcc83306898238f332fab3b98b09209aefb978bb4af14a2bf81500"
+  "sig": "1033e114015c7b80c22b6a230fce07e3c0052f0a713310b7fd8c85153b4675b772448c78983624faf9452ac8f8f266d47ecc5252427ef78bed5f4bca2ab29b08"
 }
