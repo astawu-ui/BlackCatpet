@@ -1,14 +1,13 @@
 {
-  "version": "6.3",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.3.bat",
-  "sha256": "273990d17dfaf3c7bee96a458b8e205815e41b803ff4543dc080fa3a5bec0788",
-  "date": "2026-11-11",
+  "version": "6.4",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.4.bat",
+  "sha256": "5bec3ebb133c937ae4b38af63691b9667f522b42058d2495ad062f98c8cc8cde",
+  "date": "2026-11-12",
   "notes": [
-    "v6.3（签证国排最前 + 第一张明信片晚 2 小时 + 手册配图对上）　签证办下来后，「去旅行」抽签卡直接显示那个国家，旅行手册海外页也把它所在的大洲和国家格子挪到最上面，不用再翻好久。",
-    "出国游第一张明信片改成出发满 2 小时才寄回来，后面每天一张照旧。",
-    "旅行手册现在每收到一张明信片就记一行、各配当天那张插画 —— 第一天写「在飞机上」就配飞机图，不再统一拿地标打卡照顶。"
+    "v6.4（手册明信片每天一张独立小卡）　旅行手册里出国游的明信片不再挤成一坨：第 1 天、第 2 天……各占一张独立卡片，有自己的边框、「第 N 天」标题和当天那张插画。",
+    "国内旅行和「⬇️ 保存合照」不变。"
   ],
-  "seq": 8,
-  "expires": "2027-11-11",
-  "sig": "261a27fccaa743f776600c41506e5a2ab04f0d319afc5af4a3cec6d9abb2903434129b9844b91f36b1c27dc56103a91d6550643a2ab6554a5e020c98ba0a1704"
+  "seq": 9,
+  "expires": "2027-11-12",
+  "sig": "f5d17e56fa2f2c706bc54e4722ce499d0b671b3cc53b1d0ea8c099dc63b44a2a7d3850ba37bcc83306898238f332fab3b98b09209aefb978bb4af14a2bf81500"
 }
