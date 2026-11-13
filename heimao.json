@@ -1,12 +1,12 @@
 {
-  "version": "6.7",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.7.bat",
-  "sha256": "29508e17b2842062f56c57ccc2f9969ad7285cf34cff48cb340cbe2e5d1b20ed",
-  "date": "2026-11-12",
+  "version": "6.8",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.8.bat",
+  "sha256": "18a809f3ee8cb398c20496941135fd2927bc4d724b7c350665d14a760bad0ddf",
+  "date": "2026-11-13",
   "notes": [
-    "v6.7（清理不显示的死姿势）　黑猫和小小粥里 4 张从来不会自动显示的姿势图清掉了：猫的「腾空跳」，小小粥的「生气 / 委屈 / 害怕」。它们没有任何功能引用，菜单和互动都用不到，删掉纯减负、行为零影响。"
+    "v6.8（黑猫换新形象：圆胖软萌）　黑猫 18 个姿势全部重画成圆胖软萌风：圆脑袋、圆耳朵、大眼睛带高光、粉腮红、短粗卷尾巴，走路和坐着的骨架动画也同步换了新形象，迈腿摇尾都还灵。脚底位置和大小没变，不会悬空或忽大忽小。"
   ],
-  "seq": 12,
-  "expires": "2027-11-12",
-  "sig": "4af55fbfa20ab0a33a0c1431d421d876c7ca89e1a50b73e4cf8efcc8846091d2f5f90bbe21ebb596ed3fa33ce167f970d3d4da5885d6c62dc4189ab0d041ab0d"
+  "seq": 13,
+  "expires": "2027-11-13",
+  "sig": "c4c99505372feec9db29b4e799967e8e8baf8b244a7d39eaa2b1ba1f36f27cbeddd396ef67b0efac37cc380fbbe53f10c496c64e7bc859b0602b17ac4b0c7203"
 }
