@@ -1,12 +1,12 @@
 {
-  "version": "6.9",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.9.bat",
-  "sha256": "1bdb9bd1ead72c455641068fd973ab30d6981e6ad2901dcfa70615a65a404767",
+  "version": "6.10",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.10.bat",
+  "sha256": "f06d8b1a6de9db819eb30007c52cf8745ce811868f1647a227c7c7c57aa3ae5a",
   "date": "2026-11-13",
   "notes": [
-    "v6.9（黑猫形象精细化：瘦身 + 纯黑 + 消掉动作裁切痕迹）　黑猫 18 张姿势重新画了一遍：身子收瘦、腿变修长，毛色压成真正的纯黑（去掉发灰的渐变和白色描线），圆脑袋、黄眼高光、粉腮红都保留。走路和坐着的动画也重做了骨架切法，运动时不再有直角切口和接缝；脚底位置和大小没变。"
+    "v6.10（走路和攀爬动画重构：像真猫）　走路重新让四条腿绕胯真的迈步（四拍对角步 + 身体随步起伏、前倾），不再是「一张图在滑」；攀爬让两只前爪交替上探、身体随之前蹿，不再是原地发抖。骨架切割改成腿/尾巴零件比身体开洞更大、身体盖住关节根，运动时腿根、尾根不再露刀口缝。"
   ],
-  "seq": 14,
+  "seq": 15,
   "expires": "2027-11-13",
-  "sig": "2492d0249e1fd8fcbe9315d598431be1014b1988a71f0fb0596cb9e728ec57876d3b1487445f09d8c76ab88b22d6b9efcd2a8775a51ba68f39ecc2f7fe91060b"
+  "sig": "9e40325c9b31f12838d7ac76188c8be6968dc09f5589793cf797ab26e292361e10088c495517542cbc44eaa84cdc72ed9b46946b8edf0fb2b13ebc28e968950b"
 }
