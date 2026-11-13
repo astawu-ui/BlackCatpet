@@ -1,12 +1,12 @@
 {
-  "version": "6.8",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.8.bat",
-  "sha256": "18a809f3ee8cb398c20496941135fd2927bc4d724b7c350665d14a760bad0ddf",
+  "version": "6.9",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.9.bat",
+  "sha256": "1bdb9bd1ead72c455641068fd973ab30d6981e6ad2901dcfa70615a65a404767",
   "date": "2026-11-13",
   "notes": [
-    "v6.8（黑猫换新形象：圆胖软萌）　黑猫 18 个姿势全部重画成圆胖软萌风：圆脑袋、圆耳朵、大眼睛带高光、粉腮红、短粗卷尾巴，走路和坐着的骨架动画也同步换了新形象，迈腿摇尾都还灵。脚底位置和大小没变，不会悬空或忽大忽小。"
+    "v6.9（黑猫形象精细化：瘦身 + 纯黑 + 消掉动作裁切痕迹）　黑猫 18 张姿势重新画了一遍：身子收瘦、腿变修长，毛色压成真正的纯黑（去掉发灰的渐变和白色描线），圆脑袋、黄眼高光、粉腮红都保留。走路和坐着的动画也重做了骨架切法，运动时不再有直角切口和接缝；脚底位置和大小没变。"
   ],
-  "seq": 13,
+  "seq": 14,
   "expires": "2027-11-13",
-  "sig": "c4c99505372feec9db29b4e799967e8e8baf8b244a7d39eaa2b1ba1f36f27cbeddd396ef67b0efac37cc380fbbe53f10c496c64e7bc859b0602b17ac4b0c7203"
+  "sig": "2492d0249e1fd8fcbe9315d598431be1014b1988a71f0fb0596cb9e728ec57876d3b1487445f09d8c76ab88b22d6b9efcd2a8775a51ba68f39ecc2f7fe91060b"
 }
