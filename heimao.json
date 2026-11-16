@@ -1,12 +1,12 @@
 {
-  "version": "6.16",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.16.bat",
-  "sha256": "4495d00d97218bb6d650161a6decb2ad9dd1d46d8678283911ddd396e10f2172",
+  "version": "6.17",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.17.bat",
+  "sha256": "5050dccb8588d67ce255032a23d2565113d3133d39a4b675b9038bb9b622b6c0",
   "date": "2026-11-16",
   "notes": [
-    "v6.16（查找更新不再漏掉刚发布的新版本）　之前发版后大约 5 分钟内点「查找更新」，可能还是看不到新版本、提示\"你已经是最新版\"——那是 GitHub 的缓存把旧清单压了 5 分钟，而程序原来「第一个能取到就用」，正好先撞上那份旧的。现在改成：清单地址带一个每次都变的标记，强制回源拿新的；并且主站和备用镜像都收一遍，挑序号最大的那份来用，主站缓存旧了也盖不住镜像上的新版。签名校验照旧一道不少（伪造的清单照样拒），只是以后发版后马上点「查找更新」就能看到。另外这次更新一并带上 v6.15 的新功能：导入课表支持用 AI 识别图片或表格。"
+    "v6.17（课表 AI 识别默认配好火山方舟，只填 Key 就能用）　导入课表的「🤖 AI 识别」现在默认选中火山方舟豆包 2.1 Lite：接口地址、模型、认图能力都已经内置配好（走 Coding Plan 套餐额度，不会额外扣费），你只要在「⚙️ AI 识别设置」里填上自己的 API Key 就能直接拍照/选表格识别课表。密钥不内置、只存本机 data/ai.json、不上传；也可以随时换成智谱、通义、Kimi、OpenAI 等其他服务商。"
   ],
-  "seq": 21,
+  "seq": 22,
   "expires": "2027-11-16",
-  "sig": "97bb28fc6a36a20d72f386560fd12adf96fc4462f535c7aacf5f2578bcfadec1b604f47be0450e091bfc5a9274cff5b014f172e6b44871fb976508ad2364f00c"
+  "sig": "37af7e04f05a6c48b577c7c78a5ed621247d8b9856dbb22ad69abbaabad322c688c7d91f3b68588b5da033276f87447eba0b2faf952d295b1b0931d224c9d209"
 }
