@@ -1,12 +1,12 @@
 {
-  "version": "6.19",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.19.bat",
-  "sha256": "4c5af3263d34071f72c843d36ac4e00d86ddd24422662ab8c891a34275f20d76",
+  "version": "6.20",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.20.bat",
+  "sha256": "e7fc0f548285f4a8f61535301b136d121bf396c838b3351887557ad1c9c3f2e7",
   "date": "2026-11-16",
   "notes": [
-    "v6.19（火山方舟默认模型换成你已开通的 Doubao-Seed-2.1-turbo）　课表 AI 识别的默认模型从豆包 2.1 Lite 换成 2.1 Turbo（你控制台里显示「已开通」的那一个），接口仍是普通方舟地址、走账号免费 token 额度，实测拍照认图和文本识别都正常。Key 依旧不内置，只存本机，打开「⚙️ AI 识别设置」点一次「测试连接」确认即可。"
+    "v6.20（彻底修好「测试连接」报 400，课表识别不再只认出第一行）　上一版换成 Turbo 后点「测试连接」仍报 400，根因是程序发请求时多加了一个「只要 JSON 对象」的参数：测试连接那句话没提到 JSON，Turbo 就报 400；而识别课表时这个参数又逼着模型只回答第一行，一整张课表只认出一节课、还不报错。这版把这个多余参数彻底去掉，让模型按指令老老实实返回完整课表。已用真实的 Turbo 账号实测三条路径：「测试连接」返回「可用」、文字课表 3 行全认出、上传截图 3 行也全认出。Key 仍不内置，照旧只存本机。"
   ],
-  "seq": 24,
+  "seq": 25,
   "expires": "2027-11-16",
-  "sig": "71573a703d32e6ed0de87fe94db216846c5f25bbbf60ff7a62067fdf6aa0314bdb512f31c45e251bd6ccbe2b15860e3113164da565fa1a78a6cb5d6cad496105"
+  "sig": "762a721e6c821d8fad827c594d9c1632502d4d20584af528f1e358e0b399fb47d23a38c3124ec9cd913434fcac4f9fb57850853f154a9c6f7a6ebdc9c881fe0d"
 }
