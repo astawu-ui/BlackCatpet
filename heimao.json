@@ -1,12 +1,12 @@
 {
-  "version": "6.14",
-  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.14.bat",
-  "sha256": "d17409126449bafa6055e1871bba375cc8706f5c9155cdd9ee7f4fb08a035277",
-  "date": "2026-11-13",
+  "version": "6.15",
+  "url": "https://raw.githubusercontent.com/astawu-ui/BlackCatpet/main/%E9%BB%91%E7%8C%AB%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v6.15.bat",
+  "sha256": "ee51077f44e307a1719fb7340e1ccc81dda3accbf3038f828593a37933806bc3",
+  "date": "2026-11-16",
   "notes": [
-    "v6.14（明信片日期按天顺延，不再是同一天）　旅行手册里出国游的每张明信片，日期现在严格跟着行程走：第 1 天显示出发那天，第 2 天显示出发后第 1 天，依次往后顺延，几天就是几天、每张各不同。之前因为一口气补齐时几天共用同一个时间戳，结果还是全显示出发那一天。现在改成按「出发日 + (第 N 天 − 1)」直接推算，不管怎么补寄都不会再撞成同一天；老存档照常显示。"
+    "v6.15（课表支持 AI 识别图片 / 表格导入）　导入课表新增「🤖 AI 识别」：拍一张课程表截图、或选 Excel/表格文件，交给 AI 自动认出星期、节次时间、课名、地点，认完先填进预览框让你核对，再点导入，跟原来的方式一样存进课表。第一次用要在「⚙️ AI 识别设置」里选服务商、填自己的 API Key（支持智谱 GLM-4V、通义千问、Kimi、OpenAI 等，也兼容任何 OpenAI 格式的自建接口）——密钥只存本机、费用走自己的账号。认图要选带视觉的模型；纯文本模型（如 DeepSeek）只能认表格文件。AI 偶尔会看错，导入前请对照原表看一眼预览。"
   ],
-  "seq": 19,
-  "expires": "2027-11-13",
-  "sig": "e7d0d6cbe4122474d14f0b453f895b6876e1dd946581562bef5228ff51efa64655c64cacd293e1a31cd30e0f2ec977ebe0f8db091dcfc69b9b4f82f338e41300"
+  "seq": 20,
+  "expires": "2027-11-16",
+  "sig": "f5e648ba397f222667524b1d4720852fc6fe98f656aa0dc98bedba68e76a5c39570b531a2126bba1be4940a7a0754f21b1184e4379ca3a4c0259ea4c8217390e"
 }
